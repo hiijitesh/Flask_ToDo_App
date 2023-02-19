@@ -1,6 +1,0 @@
-pip install flask Flask-PyMongo Flask-WTF
-pip install "pymongo[srv]
-
-
-import secrets
-secrets.token_hex(20)
