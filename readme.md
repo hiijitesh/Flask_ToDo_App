@@ -6,10 +6,15 @@
 
 2. create virtual environment inside of it(main project folder)
 
-```bash
-#Linux and Mac
+
+```
+### Linux and Mac
 python -m venv venv
-#windows users
+
+```
+
+### windows users
+```
 python -m venv venv
 ```
 
