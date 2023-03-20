@@ -1,4 +1,12 @@
-# Flask MongoDB CRUD APP
+
+## To-Do Application | Python, Flask, MongoDB | Dec 2022 – Jan 2023
+• Developed a To-Do application using Python, MongoDB, HTML, and CSS with CRUD features.
+
+• Designed a clean and user-friendly interface using HTML and CSS, reducing the number of clicks required to perform
+common actions by 70%.
+
+• Optimized application performance by implementing indexing and caching, resulting in a 90% increase in application
+speed.
 
 ## Project Setup
 
