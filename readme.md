@@ -14,29 +14,26 @@ speed.
 
 2. create virtual environment inside of it(main project folder)
 
-### Linux and Mac
-
-```
+Linux and Mac users
+```bash
 python -m venv venv
 
 ```
 
-### windows users
+ Windows users
 
-```
+```bash
 python -m venv venv
 ```
 
 3. Activate the virtual environment
 
-### Linux and Mac
-
+Linux and Mac
 ```bash
 source venv/bin/activate
 ```
 
-#### Windows users
-
+Windows users
 ```bash
 venv\Scripts\activate
 ```
