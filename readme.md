@@ -1,5 +1,5 @@
-
 ## To-Do Application | Python, Flask, MongoDB | Dec 2022 – Jan 2023
+
 • Developed a To-Do application using Python, MongoDB, HTML, and CSS with CRUD features.
 
 • Designed a clean and user-friendly interface using HTML and CSS, reducing the number of clicks required to perform
@@ -14,24 +14,30 @@ speed.
 
 2. create virtual environment inside of it(main project folder)
 
+### Linux and Mac
 
 ```
-### Linux and Mac
 python -m venv venv
 
 ```
 
 ### windows users
+
 ```
 python -m venv venv
 ```
 
 3. Activate the virtual environment
 
+### Linux and Mac
+
 ```bash
-# Linux and Mac
 source venv/bin/activate
-#Windows users
+```
+
+#### Windows users
+
+```bash
 venv\Scripts\activate
 ```
 
@@ -39,7 +45,7 @@ venv\Scripts\activate
 
 ```bash
 pip install flask Flask-PyMongo Flask-WTF
-python -m pip install "pymongo[srv]
+python -m pip install "pymongo[srv]"
 ```
 
 5. Setup the mongoDB cluster
